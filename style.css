@@ -19,4 +19,6 @@ p {
 button {
   all: unset;
   background: greenyellow;
+  padding: revert;
+  border: revert;
 }
