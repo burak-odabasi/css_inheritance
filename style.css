@@ -1,0 +1,22 @@
+/* div {
+  font-size: 2rem;
+  border: 1px solid black;
+}
+
+div {
+  background: greenyellow;
+  display: initial;
+}
+
+section {
+  border: 1px solid red;
+}
+
+p {
+  border: inherit;
+} */
+
+button {
+  all: unset;
+  background: greenyellow;
+}
